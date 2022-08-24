@@ -42,7 +42,7 @@ There are 60923 data points with 21 attributes  including dimensions, colors, an
 
 ## Model:
 
-We used a decision tree without PCA as our final model. The PCA had a minimal effect on model performance, and caused the model to lose a small amount of accuracy, precision, and recall, so we chose to not use PCA. The decision tree had perfect accuracy, recall, and precision on both the test and training data.
+We used a decision tree without PCA as our final model. The PCA had a minimal effect on model performance, and caused the model to lose a small amount of accuracy, precision, and recall, so we chose to not use PCA. The decision tree had perfect accuracy, recall, and precision on both the test and training data. The bagged tree and random forest also had perfect metrics, but did not make predictions as rapidly as the decision tree.
 
 ## Recommendations:
 
