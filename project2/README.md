@@ -1,6 +1,6 @@
 # Warning! This project was done for educational purposes as a means to demonstrate techniques used in machine learning. The following report is meant to illustrate how a README could be constructed for a shareholder. UNDER NO CIRCUMSTANCE SHOULD THIS MODEL BE USED TO CLASSIFY THE TOXICITY OF A MUSHROOM! THIS MODEL WAS BUILT USING A SYNTHETIC DATA SET. THERE IS NO REASON TO BELIEVE THE METRICS OF THIS MODEL WILL TRANSLATE TO REAL WORLD DATA!
 
-Shareholder report:
+<br /><br /><br /><br /><br />
 
 # Amateur mushroom gatherers should stick to autumn for picking mushrooms and should stick with brown colored mushrooms. Avoid picking mushrooms in spring, summer, and winter, and avoid orange, red, green, and gray mushrooms.
 ## Data visualizations show the safest season for picking mushrooms, and which colors tend to be the most likely to be toxic.
