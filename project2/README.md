@@ -28,12 +28,12 @@ There are 60923 data points with 21 attributes  including dimensions, colors, an
 
 ## Results:
 
-#### Average sales by outlet
+#### Toxicity By Season
 ![](toxicity_by_season.png)
 
 > Autumn is the safest season to gather mushrooms. Winter is the worst season for toxic mushrooms
 
-#### Average sales by item type
+#### Toxicity by color
 ![](toxicity_by_color.png)
 
 > Edible mushrooms tend to be brown. Orange and red mushrooms in particular tend to be poisounous.
@@ -48,7 +48,7 @@ Amateur mushroom gatherers should only gather mushrooms in autumn, and should on
 
 ## Limitations & Next Steps:
 
-We are concerned that our perfect evaluation scores will cause people to be overconfident in this model. 
+We are concerned that our perfect evaluation scores will cause people to be overconfident in this model. No machine learning model is 100% accurate, and we cannot guarantee this model will accurately predict the toxicity of every mushroom. We recommend that mushroom gatherers consult an expert before consuming any mushrooms gathered with the aid of this model.
 
 ### For further information:
 
