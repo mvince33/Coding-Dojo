@@ -29,12 +29,12 @@ There are 60923 data points with 21 attributes  including dimensions, colors, an
 ## Results:
 
 #### Toxicity By Season
-![](toxicity_by_season.png)
+![](toxicity_by_season.jpg)
 
 > Autumn is the safest season to gather mushrooms. Winter is the worst season for toxic mushrooms
 
 #### Toxicity by color
-![](toxicity_by_color.png)
+![](toxicity_by_color.jpg)
 
 > Edible mushrooms tend to be brown. Orange and red mushrooms in particular tend to be poisounous.
 
