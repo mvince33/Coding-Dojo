@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.20)  31 AUG 2022 16:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.20)  2 SEP 2022 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -914,10 +914,10 @@ Package rerunfilecheck Info: File `project2_part5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21237 strings out of 480204
- 409604 string characters out of 5895010
+ 21238 strings out of 480204
+ 409614 string characters out of 5895010
  663201 words of memory out of 5000000
- 38728 multiletter control sequences out of 15000+600000
+ 38729 multiletter control sequences out of 15000+600000
  475877 words of font info for 52 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  99i,14n,104p,394b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -925,7 +925,7 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on project2_part5.pdf (19 pages, 109514 bytes).
+Output written on project2_part5.pdf (19 pages, 109561 bytes).
 PDF statistics:
  535 PDF objects out of 1000 (max. 8388607)
  491 compressed objects within 5 object streams
