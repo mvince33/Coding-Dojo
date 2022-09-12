@@ -34,7 +34,7 @@ JOIN cities as ci
 ON ci.country_id = co.id
 WHERE ci.population > 500000
 AND co.name = 'Mexico'
-ORDER BY ci.name DESC;
+ORDER BY ci.population DESC;
 
 SELECT c.name, l.language, l.percentage
 FROM countries AS c
