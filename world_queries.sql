@@ -1,2 +1,0 @@
-USE WORLD;
-SHOW tables;
